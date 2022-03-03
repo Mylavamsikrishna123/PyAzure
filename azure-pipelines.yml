@@ -56,5 +56,5 @@ steps:
 
 
     script: |
-      print('First Azure py YAML')
-      print('190030952')
+      print('This is Section 1 Azure Demonstration')
+      print('KL-CSE')
