@@ -4,7 +4,6 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/python
 
 trigger:
-
 - master
 
 
@@ -23,7 +22,7 @@ strategy:
     Python27:
 
 
-      python.version: '3.0'
+      python.version: '2.7'
 
 
 
@@ -56,5 +55,5 @@ steps:
 
 
     script: |
-      print('This is Section 1 Azure Demonstration')
-      print('KL-CSE')
+      print('First Azure py App')
+      print('190030952')
