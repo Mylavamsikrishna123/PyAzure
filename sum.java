@@ -1,4 +1,4 @@
-public class Sum  
+private class Sum  
 {  
 public static void main(String args[])   
 {  
